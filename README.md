@@ -1,3 +1,5 @@
-# this theme is my personal theme which exists only on this device
+# to install the theme run
 
-#### if you want to clone it go to [my repo on github](https://github.com/hanbalahmed/my-vscode-theme)
+```js
+ code --install-extension codewithhanbal-0.0.1.vsix
+```
