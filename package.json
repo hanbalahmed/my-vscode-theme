@@ -9,6 +9,14 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "codewithHanbal",
+    "author": {
+        "name": "Hanbal Ahmed"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hanbalahmed/my-vscode-theme"
+    },
     "contributes": {
         "themes": [
             {
