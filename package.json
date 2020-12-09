@@ -1,0 +1,21 @@
+{
+    "name": "codewithhanbal",
+    "displayName": "codewithHanbal",
+    "description": "my personal theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "codewithHanbal-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codewithHanbal-theme-color-theme.json"
+            }
+        ]
+    }
+}
